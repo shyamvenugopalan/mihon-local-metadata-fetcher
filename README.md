@@ -1,4 +1,4 @@
-# Manga Metadata Fetcher
+# Mihon Local Source Manga Metadata Fetcher
 
 This script automatically fetches metadata and cover images for your manga collection to work with Mihon's local source feature.
 
@@ -134,3 +134,4 @@ manga/
 ## License
 
 This script is provided as-is for personal use. Please respect MyAnimeList's terms of service and Jikan API's usage guidelines.
+
